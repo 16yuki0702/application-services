@@ -1,3 +1,9 @@
+# v61.0.8 (_2020-07-15_)
+
+[Full Changelog](https://github.com/mozilla/application-services/compare/v61.0.7...v61.0.8)
+
+
+
 # v61.0.7 (_2020-06-29_)
 
 [Full Changelog](https://github.com/mozilla/application-services/compare/v61.0.6...v61.0.7)
